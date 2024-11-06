@@ -1,0 +1,5 @@
+discord.py==2.1.0          # Discord bot library
+python-telegram-bot==20.3   # Telegram bot library
+ping3==4.0.3                # Library to measure latency (ping)
+requests==2.31.0            # Library to make HTTP requests (used for IP and connectivity check)
+python-dotenv==1.0.0        # Loads environment variables from a .env file

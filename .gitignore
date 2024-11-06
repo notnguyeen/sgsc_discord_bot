@@ -1,0 +1,3 @@
+# .gitignore
+.env
+config.py  # Only if it contains sensitive information and cannot be avoided
